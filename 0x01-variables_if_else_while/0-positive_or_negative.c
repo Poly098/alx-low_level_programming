@@ -6,8 +6,9 @@
 /**
  * main - main function
  *
- * Return - 0 when successful
+ * Return: always 0
  */
+
 int main(void)
 {
 	int n;
